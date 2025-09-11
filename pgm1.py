@@ -1,3 +1,4 @@
+#깃명령어써보기...ㅋ
 # GUI 프로그램을 만들기 위한 tkinter 라이브러리를 불러옵니다.
 import tkinter as tk
 from tkinter import filedialog  # 파일 선택 대화상자를 위한 모듈
